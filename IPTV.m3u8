@@ -1,33 +1,35 @@
 #EXTINF:001, CCTV-1高清
 rtsp://124.75.34.37/PLTV/88888888/224/3221226102/00000100000000060000000000009784_0.smil
 #EXTINF:001, CCTV-2高清
-http://hellotv-iptv.uwp.ac.cn/live/cctv2hd.m3u8
+http://223.110.241.204:6610/gitv/live1/G_CCTV-2-CQ/G_CCTV-2-CQ/
 #EXTINF:001, CCTV-3高清
-http://hellotv-iptv.uwp.ac.cn/live/cctv3hd.m3u8
+http://223.110.241.204:6610/gitv/live1/G_CCTV-3-CQ/G_CCTV-3-CQ/
 #EXTINF:001, CCTV-4高清
-http://hellotv-iptv.uwp.ac.cn/live/cctv4hd.m3u8
+http://223.110.241.204:6610/gitv/live1/G_CCTV-4-CQ/G_CCTV-4-CQ/
 #EXTINF:001, CCTV-5高清
-http://hellotv-iptv.uwp.ac.cn/live/cctv5hd.m3u8
+http://223.110.241.204:6610/gitv/live1/G_CCTV-5-CQ/G_CCTV-5-CQ/
 #EXTINF:001, CCTV5+高清
-http://hellotv-iptv.uwp.ac.cn/live/cctv5phd.m3u8
+http://223.110.241.204:6610/gitv/live1/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ/
 #EXTINF:001, CCTV6-高清
-http://hellotv-iptv.uwp.ac.cn/live/cctv6hd.m3u8
+http://223.110.241.204:6610/gitv/live1/G_CCTV-6-CQ/G_CCTV-6-CQ/
 #EXTINF:001, CCTV7-高清
-http://hellotv-iptv.uwp.ac.cn/live/cctv7hd.m3u8
+http://223.110.241.204:6610/gitv/live1/G_CCTV-7-HQ/G_CCTV-7-HQ/
 #EXTINF:001, CCTV8-高清
-http://hellotv-iptv.uwp.ac.cn/live/cctv8hd.m3u8
+http://223.110.241.204:6610/gitv/live1/G_CCTV-8-CQ/G_CCTV-8-CQ/
 #EXTINF:001, CCTV9-高清
-http://hellotv-iptv.uwp.ac.cn/live/cctv9hd.m3u8
+http://223.110.241.204:6610/gitv/live1/G_CCTV-9/G_CCTV-9/
 #EXTINF:001, CCTV10-高清
-http://hellotv-iptv.uwp.ac.cn/live/cctv10hd.m3u8
+http://223.110.241.204:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ/
+#EXTINF:001, CCTV11-高清
+http://223.110.241.204:6610/gitv/live1/G_CCTV-11-HQ/G_CCTV-11-HQ/
 #EXTINF:001, CCTV12-高清
-http://hellotv-iptv.uwp.ac.cn/live/cctv12hd.m3u8
+http://223.110.241.204:6610/gitv/live1/CCTV-12/CCTV-12/
 #EXTINF:001, CCTV13-高清
-http://103.198.18.1:8082/TV4020.m3u8
+http://223.110.241.204:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/
 #EXTINF:001, CCTV14-高清
-http://hellotv-iptv.uwp.ac.cn/live/cctv14hd.m3u8
+http://223.110.241.204:6610/gitv/live1/G_CCTV-14/G_CCTV-14/
 #EXTINF:001, CCTV15-高清
-http://103.198.18.1:8082/TV4012.m3u8
+http://223.110.241.204:6610/gitv/live1/G_CCTV-15/G_CCTV-15/
 #EXTINF:002, 新闻综合HD
 rtsp://124.75.34.37/PLTV/88888888/224/3221226233/10000100000000060000000000813435_0.smil
 #EXTINF:003, 东方卫视HD
