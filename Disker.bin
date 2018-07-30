@@ -4,11 +4,11 @@ dns-server = 221.4.8.1, 223.5.5.5, 119.29.29.29, 172.18.157.17, 172.18.156.31, 1
 udp-relay = false
 
 [Proxy]
-🇭🇰 HKT = ss, 112.120.33.114, 31205, chacha20, AbcTest123
-🇭🇰 HKT1 = ss, cchkt2.myddns.me, 31205, chacha20, AbcTest123
-🇭🇰 Aliyun = ss, 47.75.97.214,31205, chacha20, AbcTest123
-🇯🇵 Vutlr = ss, 47.74.40.32, 20200, chacha20, AbcTest123
-🇺🇸 QN = ss, 66.154.104.33, 50300, chacha20, AbcTest123
+🇭🇰 HKT = custom, 112.120.33.114, 31205, chacha20, AbcTest123, http://omgib13x8.bkt.clouddn.com/SSEncrypt.module, udp-relay=true
+🇭🇰 HKT1 = custom, cchkt2.myddns.me, 31205, chacha20, AbcTest123, http://omgib13x8.bkt.clouddn.com/SSEncrypt.module, udp-relay=true
+🇭🇰 Aliyun = custom, 47.75.97.214,31205, chacha20, AbcTest123, http://omgib13x8.bkt.clouddn.com/SSEncrypt.module, udp-relay=true
+🇯🇵 Vutlr = custom, 47.74.40.32, 20200, chacha20, AbcTest123, http://omgib13x8.bkt.clouddn.com/SSEncrypt.module, udp-relay=true
+🇺🇸 QN = custom, 66.154.104.33, 50300, chacha20, AbcTest123, http://omgib13x8.bkt.clouddn.com/SSEncrypt.module, udp-relay=true
 [Proxy Group]
 Proxy = select, 🇭🇰HKT, 🇭🇰 HKT1, 🇭🇰 Aliyun, 🇯🇵 Vutlr, 🇺🇸 QN
 [Rule]
